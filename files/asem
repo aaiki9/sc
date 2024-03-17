@@ -1,0 +1,7 @@
+
+REPO="https://raw.githubusercontent.com/muhammadkelpin/capmodzstore/main/"
+
+
+
+wget -q -O /etc/default/dropbear "${REPO}cfg/dropbear.conf"
+chmod +x /etc/default/dropbear
