@@ -3,7 +3,7 @@
 </p>
 
 ### INSTALL SCRIPT 
-<pre><code>apt update -y && apt upgrade -y && apt install -y screen wget curl lolcat && gem install lolcat && wget --no-check-certificate https://raw.githubusercontent.com/aaiki9/sc/main/run.sh && chmod +x run.sh && screen -S run ./run.sh
+<pre><code>apt update -y && apt upgrade -y && apt install -y screen wget curl ruby && gem install lolcat && wget --no-check-certificate https://raw.githubusercontent.com/aaiki9/sc/main/run.sh && chmod +x run.sh && screen -S run ./run.sh
 </code></pre>
 
 ### TESTED ON OS 
