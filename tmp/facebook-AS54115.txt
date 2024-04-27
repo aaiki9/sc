@@ -1,0 +1,77 @@
+{
+    "messages": [
+        [
+            "info",
+            "Query time has been set to the latest time (2024-04-24 16:00 UTC) data is available for."
+        ]
+    ],
+    "see_also": [],
+    "version": "1.0",
+    "data_call_name": "ris-prefixes",
+    "data_call_status": "supported",
+    "cached": true,
+    "data": {
+        "counts": {
+            "v4": {
+                "originating": 10
+            },
+            "v6": {
+                "originating": 11
+            }
+        },
+        "prefixes": {
+            "v4": {
+                "originating": [
+                    "163.114.136.0/24",
+                    "163.114.134.0/24",
+                    "199.201.64.0/22",
+                    "163.114.131.0/24",
+                    "163.114.128.0/24",
+                    "163.114.128.0/20",
+                    "163.114.133.0/24",
+                    "163.114.132.0/24",
+                    "163.114.129.0/24",
+                    "163.114.130.0/24"
+                ]
+            },
+            "v6": {
+                "originating": [
+                    "2620:10d:c09a::/48",
+                    "2620:10d:c09b::/48",
+                    "2620:10d:c092::/48",
+                    "2620:10d:c090::/48",
+                    "2620:10d:c095::/48",
+                    "2620:10d:c099::/48",
+                    "2620:10d:c090::/44",
+                    "2620:10d:c091::/48",
+                    "2620:10d:c098::/48",
+                    "2620:10d:c094::/48",
+                    "2620:10d:c093::/48"
+                ]
+            }
+        },
+        "resource": "54115",
+        "query_time": "2024-04-24T16:00:00",
+        "list_prefixes": true,
+        "af": [
+            "v4",
+            "v6"
+        ],
+        "types": [
+            "o"
+        ],
+        "noise": [
+            "keep"
+        ],
+        "cache": null,
+        "latest_time": "2024-04-24T16:00:00",
+        "earliest_time": "2019-01-13T00:00:00"
+    },
+    "query_id": "20240424234519-8d2efa34-1c39-4dbd-b0df-fb40f6539b63",
+    "process_time": 8,
+    "server_id": "app124",
+    "build_version": "live.2024.4.15.204",
+    "status": "ok",
+    "status_code": 200,
+    "time": "2024-04-24T23:45:19.733258"
+}

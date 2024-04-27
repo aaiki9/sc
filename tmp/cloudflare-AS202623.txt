@@ -1,0 +1,75 @@
+{
+    "messages": [
+        [
+            "info",
+            "Query time has been set to the latest time (2024-04-24 16:00 UTC) data is available for."
+        ]
+    ],
+    "see_also": [],
+    "version": "1.0",
+    "data_call_name": "ris-prefixes",
+    "data_call_status": "supported",
+    "cached": true,
+    "data": {
+        "counts": {
+            "v4": {
+                "originating": 9
+            },
+            "v6": {
+                "originating": 10
+            }
+        },
+        "prefixes": {
+            "v4": {
+                "originating": [
+                    "198.41.148.0/24",
+                    "172.71.32.0/19",
+                    "198.41.255.0/24",
+                    "172.71.64.0/20",
+                    "198.41.245.0/24",
+                    "198.41.148.0/22",
+                    "198.41.152.0/22",
+                    "141.101.64.0/24",
+                    "141.101.91.0/24"
+                ]
+            },
+            "v6": {
+                "originating": [
+                    "2a06:98c0:3606::/48",
+                    "2a06:98c0:3605::/48",
+                    "2a06:98c0:3616::/48",
+                    "2400:cb00:420::/48",
+                    "2a06:98c0:3607::/48",
+                    "2a06:98c0:1400::/48",
+                    "2a06:98c0:3612::/48",
+                    "2a06:98c0:360e::/48",
+                    "2a06:98c0:1401::/48",
+                    "2a06:98c0:3603::/48"
+                ]
+            }
+        },
+        "resource": "202623",
+        "query_time": "2024-04-24T16:00:00",
+        "list_prefixes": true,
+        "af": [
+            "v4",
+            "v6"
+        ],
+        "types": [
+            "o"
+        ],
+        "noise": [
+            "keep"
+        ],
+        "cache": null,
+        "latest_time": "2024-04-24T16:00:00",
+        "earliest_time": "2018-12-21T00:00:00"
+    },
+    "query_id": "20240424234510-3b86e1ac-6748-4017-bc5d-b02198f5f3a7",
+    "process_time": 7,
+    "server_id": "app117",
+    "build_version": "live.2024.4.15.204",
+    "status": "ok",
+    "status_code": 200,
+    "time": "2024-04-24T23:45:10.648817"
+}

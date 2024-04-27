@@ -1,0 +1,61 @@
+{
+    "messages": [
+        [
+            "info",
+            "Query time has been set to the latest time (2024-04-24 16:00 UTC) data is available for."
+        ]
+    ],
+    "see_also": [],
+    "version": "1.0",
+    "data_call_name": "ris-prefixes",
+    "data_call_status": "supported",
+    "cached": true,
+    "data": {
+        "counts": {
+            "v4": {
+                "originating": 6
+            },
+            "v6": {
+                "originating": 0
+            }
+        },
+        "prefixes": {
+            "v4": {
+                "originating": [
+                    "137.75.122.0/24",
+                    "151.207.26.0/24",
+                    "35.199.192.0/19",
+                    "165.85.151.0/24",
+                    "165.85.252.0/24",
+                    "151.207.24.0/24"
+                ]
+            },
+            "v6": {
+                "originating": []
+            }
+        },
+        "resource": "16550",
+        "query_time": "2024-04-24T16:00:00",
+        "list_prefixes": true,
+        "af": [
+            "v4",
+            "v6"
+        ],
+        "types": [
+            "o"
+        ],
+        "noise": [
+            "keep"
+        ],
+        "cache": null,
+        "latest_time": "2024-04-24T16:00:00",
+        "earliest_time": "2018-12-21T00:00:00"
+    },
+    "query_id": "20240424234553-5a807f6c-fd39-408c-abb3-9feb071c495c",
+    "process_time": 8,
+    "server_id": "app149",
+    "build_version": "live.2024.4.15.204",
+    "status": "ok",
+    "status_code": 200,
+    "time": "2024-04-24T23:45:53.685523"
+}
