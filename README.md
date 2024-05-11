@@ -7,10 +7,10 @@
 </code></pre>
 
 ### TESTED ON OS 
-- UBUNTU 20.04 (RECOMMENDED)
-- DEBIAN 10
+- UBUNTU 22.04 ONLY. NOT GUARANTEED FOR OTHER OS
 
 ### FITUR TAMBAHAN
+- BOT
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
@@ -38,6 +38,7 @@
 - SSH UDP 1-65535
 - OVPN SSL/TCP 1194
 - SLOWDNS 5300
+- NOOBZVPNS
 ```
 
 ### SETTING CLOUDFLARE
@@ -52,3 +53,7 @@
 ### AUTHOR
 <a href="https://t.me/KyyLearning27" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 <a href="https://wa.me/6281292093430" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+
+
+### EHEM SAWER NYA DONG TUAN🗿
+DANA 081292093420 
