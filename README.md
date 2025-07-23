@@ -50,7 +50,7 @@
 ```
 ### AUTHOR
 <a href="https://t.me/KyyLearning27" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-<a href="https://wa.me/6281292093430" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+<a href="https://wa.me/6285179982383" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
 
 
 ### EHEM SAWER NYA DONG TUAN🗿
