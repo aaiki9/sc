@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=JANGAN+LUPA+SUPPORT+BANG" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=JANGAN+LUPA+SUPPORT+BANG" alt="Typing SVG" /></a>
 
 ### INSTALL SCRIPT 
 <pre><code>apt update -y && apt upgrade -y && apt install -y screen wget ruby && gem install lolcat && wget --no-check-certificate https://raw.githubusercontent.com/aaiki9/sc/main/run.sh && chmod +x run.sh && screen -S run ./run.sh
