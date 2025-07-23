@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=X-VPN;By. X-VPN.TECH"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=JANGAN+LUPA+SUPPORT+BANG" alt="Typing SVG" /></a>
 
 ### INSTALL SCRIPT 
 <pre><code>apt update -y && apt upgrade -y && apt install -y screen wget ruby && gem install lolcat && wget --no-check-certificate https://raw.githubusercontent.com/aaiki9/sc/main/run.sh && chmod +x run.sh && screen -S run ./run.sh
